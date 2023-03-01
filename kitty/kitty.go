@@ -1,3 +1,3 @@
 package kitty
 
-const KittyValue = 123
+const KittyValue = "ABC"
